@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sriramarumugham.github.io/csb-op32fd/static/css/main.b9e433fc.chunk.css",
+    "main.js": "https://sriramarumugham.github.io/csb-op32fd/static/js/main.c5e4cc0d.chunk.js",
+    "main.js.map": "https://sriramarumugham.github.io/csb-op32fd/static/js/main.c5e4cc0d.chunk.js.map",
+    "runtime-main.js": "https://sriramarumugham.github.io/csb-op32fd/static/js/runtime-main.7e7e0475.js",
+    "runtime-main.js.map": "https://sriramarumugham.github.io/csb-op32fd/static/js/runtime-main.7e7e0475.js.map",
+    "static/js/2.3ce12cad.chunk.js": "https://sriramarumugham.github.io/csb-op32fd/static/js/2.3ce12cad.chunk.js",
+    "static/js/2.3ce12cad.chunk.js.map": "https://sriramarumugham.github.io/csb-op32fd/static/js/2.3ce12cad.chunk.js.map",
+    "index.html": "https://sriramarumugham.github.io/csb-op32fd/index.html",
+    "static/css/main.b9e433fc.chunk.css.map": "https://sriramarumugham.github.io/csb-op32fd/static/css/main.b9e433fc.chunk.css.map",
+    "static/js/2.3ce12cad.chunk.js.LICENSE.txt": "https://sriramarumugham.github.io/csb-op32fd/static/js/2.3ce12cad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e7e0475.js",
+    "static/js/2.3ce12cad.chunk.js",
+    "static/css/main.b9e433fc.chunk.css",
+    "static/js/main.c5e4cc0d.chunk.js"
+  ]
+}
